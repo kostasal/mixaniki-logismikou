@@ -1,0 +1,62 @@
+.w3-myborder
+{
+	border:3px solid black;
+}
+
+.w3-myuser
+{
+	margin-left:1032px;
+}
+
+.mywebeng
+{
+	margin-top:25px;
+	margin-left:40px;
+	font-size:45px;
+	color:black;
+}
+
+.mine
+{
+	padding:3px 7px 3px 7px;
+	background-color:black;
+	border-color:black;
+	margin-left:8px;
+	
+}
+
+.mine2
+{
+	padding:3px 5px 3px 5px;
+	background-color:black;
+	border-color:black;
+	margin-left:8px;
+}
+
+.w3-myclass
+{
+	margin-top:-35px;
+	margin-left:705px;
+}
+
+.myh1
+{
+	text-decoration:underline;
+}
+
+.mysettings
+{
+	margin-right:512px;
+	font-size:17.5px;
+	
+}
+
+textarea {
+   resize: none;
+   
+}
+
+#demo
+{
+	width:2000px; //autosize window contents
+}
